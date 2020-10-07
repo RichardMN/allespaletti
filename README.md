@@ -110,6 +110,10 @@ The following palettes are available for `scale_fill_politics()` /
 
 <img src="man/figures/README-polus-1.png" width="100%" /><img src="man/figures/README-polus-2.png" width="100%" />
 
+#### Lithuanian parties
+
+<img src="man/figures/README-polltu-1.png" width="100%" />
+
 ### Social networking sites
 
 Palettes containing colors of social networking sites.
