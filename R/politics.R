@@ -19,6 +19,7 @@
 #' \describe{
 #'   \item{German parties}{german, german2, fckafd, fckafd2}
 #'   \item{US parties}{us, us2}
+#'   \item{Lithuanian parties}{lietuva}
 #'   }
 #'
 #' @export
@@ -79,8 +80,43 @@ politics_palettes <- list(
          independent = "#637684"),
   us2 = c(democrats = "#000E89",
           republican = "#C91602",
-          independent = "#DDDDDD")
-)
+          independent = "#DDDDDD"),
+  lietuva = c("TS-LKD" = "#254F96",
+              LVŽS = "#008534",
+              LSDP = "#DF2F37",
+              LRLS = "#DF7A24",
+              "LCP-LPP" = "#099F4A",
+              LLRA = "#B02A2A",
+              TT = "#FFE934",
+              DP = "#00196D",
+              LLS = "#FFB12B",
+              LŽP = "#43A12F",
+              LSDDP = "#9B3820",
+              Laisvės = "#e90461",
+              LT = "#FFB12B",
+              Independent = "#999999",
+              DDVP = "#dddddd",
+              DK= "#dddddd",
+              EP = "#dddddd",
+              JL = "#B02A2A",
+              KP = "#dddddd",
+              KS = "#00196D",
+              KULS = "#dddddd",
+              LCP = "#099F4A",
+              LPP = "#079F4A",
+              LS = "#353535",
+              LSDS = "#dddddd",
+              LŽS = "#dddddd",
+              RP = "#dddddd",
+              SLF = "#dddddd",
+              ST = "#dddddd",
+              TPLK = "#dddddd",
+              "TS-L" = "#0098d8",
+              TS = "#0098d8",
+              TVS = "#dddddd",
+              ŽP = "#FEEB4F"
+              )
+  )
 
 #' Get palette function
 #'

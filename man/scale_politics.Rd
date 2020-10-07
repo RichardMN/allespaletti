@@ -35,6 +35,7 @@ The following palettes are available for use with these scales:
 \describe{
 \item{German parties}{german, german2, fckafd, fckafd2}
 \item{US parties}{us, us2}
+\item{Lithuanian parties}{lietuva}
 }
 }
 

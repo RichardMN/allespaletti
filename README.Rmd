@@ -143,6 +143,12 @@ display_palette(politics_palettes, "us")
 display_palette(politics_palettes, "us2")
 ```
 
+#### Lithuanian parties
+
+```{r polltu, echo = FALSE}
+display_palette(politics_palettes, "lietuva")
+```
+
 ### Social networking sites
 
 Palettes containing colors of social networking sites. 
